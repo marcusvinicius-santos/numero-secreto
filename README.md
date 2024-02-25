@@ -13,4 +13,4 @@
 # Time
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/160525199?v=4" width=115><br><sub>Marcus Vinícius</sub>](https://github.com/marcusvinicius-santos) |
-| :---: | :---: |
+| :---: |
